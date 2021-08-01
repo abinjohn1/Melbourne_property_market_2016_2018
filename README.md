@@ -12,6 +12,7 @@ I have designed the layout for the dashboard as a partitioned poster with the ca
 In terms of typeface, I have used the san serif font all across the graph to enhance the readability. Further, I have used different size for the heading and subheadings and used bold font to highlight the important information. In addition I have also used the dark blue colour for the text to match the entire visualisation.
 
 The following visualisation Idioms are used here :
+
 o Barchart–Housepriceacrossallregions
 o Stackedbarchart–Propertycompositionacrossallregions o Barchart-SuburbwithhighestgrowthinMedianPrice
 o Scatterplot(bubblechart)–Mostexpensivesuburbs
