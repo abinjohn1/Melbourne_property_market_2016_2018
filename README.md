@@ -1,5 +1,7 @@
 # Melbourne_property_market_2016_2018
 
+https://public.tableau.com/views/MelbourneHousePrice2016-2018/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 The domain I have chosen for the  visualization is the Melbourne Property Price from 2016 to 2018.
 
 Melbourne’s property market soared from 2016 to 2017 and seen a decline from then. It would be interesting to see whether the trend was unanimous across all the regions of Melbourne. Besides, we can look at the suburb which had the highest growth from 2016. Also, it would be interesting to see the most expensive suburbs in Melbourne.  
